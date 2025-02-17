@@ -28,7 +28,7 @@ This project implements a real-time plant disease detection system using Convolu
 ## 4️⃣ Configure Environment Variables:
 Create a .env file in the project root and add necessary configurations, such as model paths, API keys (if any), and database credentials.
 
-5️⃣ Run the Application
+##5️⃣ Run the Application
 ## Backend (Model Inference API):
     python app.py  
 
