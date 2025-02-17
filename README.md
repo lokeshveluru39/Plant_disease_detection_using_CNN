@@ -9,6 +9,8 @@ This project implements a real-time plant disease detection system using Convolu
 - **pip** (Python package manager)  
 - **Virtual environment** (recommended)
 
+### Dataset link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 ## Installation Steps  
 
 ## 1️⃣ Clone the Repository:  
